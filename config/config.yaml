@@ -1,0 +1,27 @@
+optimizer:
+  lr: 1e-3
+  lr_decay: 0.5
+  lr_step: 50
+  weight_decay: 1e-4
+
+batch_size: 4
+max_epoch: 3000
+num_workers: 0
+
+augmentation:
+  gaussian_noise: False
+  translation: False
+  rot_gravity: False
+
+normalize_pc: False
+
+data:
+  train_data_path: /data1/gswei/code/data/train_dataset20/
+  val_data_path: /data1/gswei/code/data/val_dataset/
+  test_data_path: /data1/gswei/code/test_dataset20/
+  train_txt: splits/train.txt
+  val_txt: splits/val.txt
+  test_txt: splits/test.txt
+
+network:
+  name: iPUNet
