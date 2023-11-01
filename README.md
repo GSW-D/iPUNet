@@ -34,13 +34,12 @@ python test.py
 
 ## Citation
 ```
-@misc{wei2023ipunetiterative,
-      title={iPUNet:Iterative Cross Field Guided Point Cloud Upsampling}, 
-      author={Guangshun Wei and Hao Pan and Shaojie Zhuang and Yuanfeng Zhou and Changjian Li},
-      year={2023},
-      eprint={2310.09092},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wei2023ipunet,
+  title={iPUNet: Iterative Cross Field Guided Point Cloud Upsampling},
+  author={Wei, Guangshun and Pan, Hao and Zhuang, Shaojie and Zhou, Yuanfeng and Li, Changjian},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
