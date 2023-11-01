@@ -1,6 +1,6 @@
 # iPUNet
 
-This is the official repository for the publication [iPUNet: Iterative Cross Field Guided Point Cloud Upsampling](https://arxiv.org/pdf/2310.09092.pdf).
+This is the official repository for the publication [iPUNet: Iterative Cross Field Guided Point Cloud Upsampling](https://enigma-li.github.io/projects/iPUNet/iPUNet.html).
 
 If you should encounter any problems with the code, don't hesitate to contact me at guangshunwei@gmail.com.
 
